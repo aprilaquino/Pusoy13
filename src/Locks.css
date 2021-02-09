@@ -1,0 +1,14 @@
+.Locks{
+	/* display:flex;
+	justify-content: space-evenly; */
+	/* flex-wrap: wrap; */
+	
+}
+
+
+.Locks-container{
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	margin-top:50px;
+}

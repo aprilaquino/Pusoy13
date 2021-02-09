@@ -1,0 +1,39 @@
+.RollDice{
+	margin-top: 50px;
+}
+
+.RollDice h1{
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #000;
+	line-height: 0.1em;
+	margin: 10px 0 20px;
+}
+
+.RollDice span{
+	background:#fff;
+	padding:0 10px;
+	font-family:"Lucida Console", "Courier New", monospace;
+}
+.RollDice-container{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+.RollDice button{
+	align-self:center;
+	width: 15em;
+	padding: 1.5em;
+	border: 0px;
+	border-radius: 10px;
+	color: white;
+	background-color: black;
+	margin-top: 3em;
+}
+
+.RollDice button:hover{
+	background-color: maroon;
+	cursor: pointer;
+}
+
