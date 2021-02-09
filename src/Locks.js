@@ -6,7 +6,7 @@ class Locks extends Component {
 	static defaultProps ={
 		hand : [
 			{name: 'Grand Dragon - x60', desc: 'A,2,...,Q,K of the same suit'},
-			{name: 'Dragon - x50', desc: 'A,2,...,Q,K of the same suit'},
+			{name: 'Dragon - x50', desc: 'A,2,...,Q,K of different suit'},
 			{name: 'Twelve Royals - x40', desc: 'All cards are J, Q, K, A only'},
 			{name: 'Three Straight Flushes - x35', desc: 'Straight Flush in all 3 Hands'},
 			{name: 'Three 4 Of A Kind - x35', desc: '3 sets of Four of a Kind'},
