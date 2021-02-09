@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Pusoy13/static/css/main.ed6c4552.chunk.css",
-    "main.js": "/Pusoy13/static/js/main.22db9140.chunk.js",
-    "main.js.map": "/Pusoy13/static/js/main.22db9140.chunk.js.map",
+    "main.css": "/Pusoy13/static/css/main.ff6f8498.chunk.css",
+    "main.js": "/Pusoy13/static/js/main.ef78938a.chunk.js",
+    "main.js.map": "/Pusoy13/static/js/main.ef78938a.chunk.js.map",
     "runtime-main.js": "/Pusoy13/static/js/runtime-main.9c3d335e.js",
     "runtime-main.js.map": "/Pusoy13/static/js/runtime-main.9c3d335e.js.map",
     "static/js/2.59c5ac57.chunk.js": "/Pusoy13/static/js/2.59c5ac57.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.a43d5aa5.chunk.js": "/Pusoy13/static/js/3.a43d5aa5.chunk.js",
     "static/js/3.a43d5aa5.chunk.js.map": "/Pusoy13/static/js/3.a43d5aa5.chunk.js.map",
     "index.html": "/Pusoy13/index.html",
-    "static/css/main.ed6c4552.chunk.css.map": "/Pusoy13/static/css/main.ed6c4552.chunk.css.map",
+    "static/css/main.ff6f8498.chunk.css.map": "/Pusoy13/static/css/main.ff6f8498.chunk.css.map",
     "static/js/2.59c5ac57.chunk.js.LICENSE.txt": "/Pusoy13/static/js/2.59c5ac57.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Pusoy13/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9c3d335e.js",
     "static/js/2.59c5ac57.chunk.js",
-    "static/css/main.ed6c4552.chunk.css",
-    "static/js/main.22db9140.chunk.js"
+    "static/css/main.ff6f8498.chunk.css",
+    "static/js/main.ef78938a.chunk.js"
   ]
 }
