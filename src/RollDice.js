@@ -27,7 +27,7 @@ class RollDice extends Component {
 	render(){
 		return (
 			<div className="RollDice">
-				<h1><span>Pusoy! Aquino STYLE!</span></h1>
+				<h1>Pusoy! Aquino STYLE!</h1>
 				<div className="RollDice-container">
 					<Die face={this.state.die1} rolling={this.state.rolling}/>
 					<Die face={this.state.die2} rolling={this.state.rolling}/>
